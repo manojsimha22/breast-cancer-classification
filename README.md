@@ -41,7 +41,6 @@ All 6 models were implemented on the same dataset. The evaluation metrics record
 - `train_models.py`: Script to train and save all 6 models.
 - `requirements.txt`: List of dependencies.
 - `model/`: Directory containing saved `.joblib` model files.
-- `test_data.csv`: A sample test dataset for use with the Streamlit app.
 
 ## How to Run Locally
 1. Create a virtual environment: `python -m venv venv`
