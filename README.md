@@ -12,10 +12,6 @@ Breast cancer is one of the most common cancers among women worldwide. Early dia
 - **Features:** 30 numerical features (e.g., radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension).
 - **Target:** Binary (0: Benign, 1: Malignant)
 
-The dataset meets the assignment requirements:
-- Minimum Feature Size: 30 (> 12)
-- Minimum Instance Size: 569 (> 500)
-
 ## Models Used & Performance Comparison
 
 All 6 models were implemented on the same dataset. The evaluation metrics recorded are as follows:

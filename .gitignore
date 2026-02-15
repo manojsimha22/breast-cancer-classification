@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+metrics_results.csv
+test_data.csv
+ML_Assignment_2.pdf
+!model/
+!model/*.joblib
+!model/*.py
+!model/*.ipynb
