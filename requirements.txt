@@ -1,8 +1,8 @@
-pandas
-numpy
+streamlit>=1.32
+altair>=5
 scikit-learn
 xgboost
-joblib
-streamlit
+pandas
+numpy
 matplotlib
 seaborn
